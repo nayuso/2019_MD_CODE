@@ -1,4 +1,4 @@
-# 2019_MD_CODE
+# 2019_MI_Subsurface_Channel
 A Computational Channel Model for Magnetic Induction based Subsurface Applications
 >The present respository is organized as follows:
 >
