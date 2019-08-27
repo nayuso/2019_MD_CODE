@@ -13,4 +13,5 @@ The present respository is organized as follows:
 * CODE_DATA: data to generate plots in paper (Ayuso et. al 2019)
 
 **References**
+
 Ayuso, N., Cuchí, J.A., Lera F. and Villarroel J.L. A Computational Channel Model for Magnetic Induction based Subsurface Applications. *Radio Science*, 2019-07-24. DOI: 10.1029/2018RS006692
